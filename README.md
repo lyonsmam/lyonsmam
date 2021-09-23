@@ -1,4 +1,4 @@
-- Hi, I’m @lyons
+Hi, I’m @lyons
 - Prefered pronouns are she/her
 - I would like to make an app for navigating schools with specific schedules in place
 - I am a little familiar with html, python, and JavaScript
